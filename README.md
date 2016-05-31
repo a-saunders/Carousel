@@ -58,7 +58,7 @@ Time spent: `8 hours`
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. I'd like to try implementing the animated intro images.
-2. 
+2. When I use the spinner and delay, a weird blue rectangle appears in the corner of the button. Any ideas why?
 
 ### Video Walkthrough 
 
